@@ -1,0 +1,1 @@
+This assignment involves fixing some code in two external libraries and using them to loop over an array of names and printing out either "Hello" or "Goodbye" to the browser console, depending on the starting letter of each name. If the name starts with "j" or "J", "Goodbye" is printed, otherwise "Hello" is printed.
